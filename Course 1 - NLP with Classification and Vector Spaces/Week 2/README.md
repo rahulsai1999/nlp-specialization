@@ -38,3 +38,16 @@
 - Words with zero in their conditional probability will cause the system to fail, therefore a smoothing system is required i.e. a small margin is added to all the conditional probabilties.
 
   ![nbayes2](images/bayes2.jpg)
+
+- The final product using the formula gives us the probability which is above 1 thereby classifying the tweet as positive.
+
+---
+
+### Laplacian Smoothing
+
+![laplacian](images/laplacian.jpg)
+![laplacian2](images/laplacian2.jpg)
+
+---
+
+### Log Likelihood
